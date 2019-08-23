@@ -1,0 +1,8 @@
+prefix=/home/jungsu/catkin_ws/src/turtlebot3_ar_tracker/turtlebot3_ar_tracker/cmake-build-debug/devel
+
+Name: turtlebot3_ar_tracker
+Description: Description of turtlebot3_ar_tracker
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/jungsu/catkin_ws/src/turtlebot3_ar_tracker/turtlebot3_ar_tracker/cmake-build-debug/devel/lib 
+Requires: 

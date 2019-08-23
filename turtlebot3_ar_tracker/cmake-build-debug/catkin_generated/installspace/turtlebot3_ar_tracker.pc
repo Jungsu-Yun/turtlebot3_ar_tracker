@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: turtlebot3_ar_tracker
+Description: Description of turtlebot3_ar_tracker
+Version: 0.0.0
+Cflags: 
+Libs: -L/usr/local/lib 
+Requires: 

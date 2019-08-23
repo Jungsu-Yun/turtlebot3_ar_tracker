@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/jungsu/catkin_ws/src/turtlebot3_ar_tracker/turtlebot3_ar_tracker/cmake-build-debug/devel/setup.sh
